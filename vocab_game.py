@@ -102,7 +102,8 @@ ans2 = st.text_input(
 ans3 = st.text_input(
     "ข้อ 3: A sweet yellow `m _ n _ o`. 🥭",
     value=st.session_state.ans3_val,
-)ans4 = st.text_input(
+)
+ans4 = st.text_input(
     "ข้อ 4: A vehicle with four `c _ r`. 🚗",
     value=st.session_state.ans4_val,
 )
